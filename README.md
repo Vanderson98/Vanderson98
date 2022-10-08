@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Vanderson Souza
 
 - 🌱 Estou atualmente estudando Desenvolvimento Web Full Stack<br><br>
+- 🌱 I am currently studying Full Stack Web Development<br><br>
   <div>
     <a href="https://github.com/Vanderson98">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanderson98&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
