@@ -1,4 +1,4 @@
-### Olá! Meu nome é <h3>Vanderson Souza</h3>
+###  <h3>Olá! Meu nome é <span style="font-weight:600;">Vanderson Souza</span></h3>
 
 - 🌱 Estou atualmente estudando Desenvolvimento Web Full Stack<br><br>
 - 🌱 I am currently studying Full Stack Web Development<br><br>
