@@ -1,4 +1,4 @@
-### Olá! Meu nome é Vanderson Souza
+### Olá! Meu nome é <h3>Vanderson Souza</h3>
 
 - 🌱 Estou atualmente estudando Desenvolvimento Web Full Stack<br><br>
 - 🌱 I am currently studying Full Stack Web Development<br><br>
@@ -10,8 +10,10 @@
   <div style="margin-top: 10px" "display: inline-block"><br>
         <img align="center" alt"Vanderson_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt"Vanderson_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
-        <img align="center" alt"Vanderson_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">      
+        <img align="center" alt"Vanderson_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+        <img align="center" alt"Vanderson_bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
         <img align="center" alt"Vanderson_CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <img align="center" alt"Vanderson_PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </div>
   <hr>
   <div>
