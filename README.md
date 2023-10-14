@@ -14,13 +14,11 @@
         <img align="center" alt"Vanderson_PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </div>
   <div style="margin-top: 10px" "display: inline-block"><br>
-        <h2>Linguagens de Marcação</h2>
+        <h2>Outros</h2>
         <img align="center" alt"Vanderson_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt"Vanderson_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
-  </div>
-   <div style="margin-top: 10px" "display: inline-block"><br>
-        <h2>FrameWorks</h2>        
+        <img align="center" alt"Vanderson_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt"Vanderson_bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+        <img align="center" alt"Vanderson_SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">      
   </div>
   <hr>
   <div>
