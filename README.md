@@ -21,6 +21,8 @@
         <img align="center" alt"Vanderson_Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
         <img align="center" alt"Vanderson_Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
         <img align="center" alt"Vanderson_Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+        <br><br>
+        <img align="center" alt"Vanderson_Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg">
 
   
   </div>
