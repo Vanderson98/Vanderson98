@@ -1,33 +1,45 @@
-###  <h3>Olá! Meu nome é <span style="font-weight:600;">Vanderson Souza</span></h3>
+## Sou o Vanderson Souza 💻, Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🌱 Estou atualmente estudando Desenvolvimento Web Full Stack<br><br>
-- 🌱 I am currently studying Full Stack Web Development<br><br>
-  <div>
-    <a href="https://github.com/Vanderson98">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanderson98&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanderson98&layout=compact&langs_count=16&theme=gruvbox"/>
-  </div>
-  <div style="margin-top: 10px" "display: inline-block"><br>
-        <img align="center" alt"Vanderson_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="Vanderson_TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img align="center" alt"Vanderson_CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <img align="center" alt"Vanderson_PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-        <img align="center" alt"Vanderson_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt"Vanderson_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <br><br>
-        <img align="center" alt"Vanderson_bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-        <img align="center" alt"Vanderson_SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-        <img align="center" alt"Vanderson_Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-        <img align="center" alt"Vanderson_Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-        <img align="center" alt"Vanderson_Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-        <img align="center" alt"Vanderson_Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-        <br><br>
-        <img align="center" alt"Vanderson_Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg">
+## 🛠 Áreas:
+### • Desenvolvimento Front-End/Back-End 💻
+### • Análise de Dados/Sistemas 📊 
 
-  
-  </div>
-  <hr>
-  <div>
-   <!--<a href="mailto:vansouza595@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>-->
-    <a href="https://www.linkedin.com/in/vanderson-souza-44254a219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Competências:
+### • Inglês Básico 📘 
+### • Estrutura de Dados 📉 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+Tecnologias:
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/mysql-007EBF?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+Frameworks:
+
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/laravel-FF2D55?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![VueJS](https://img.shields.io/badge/vuejs-42b883?style=for-the-badge&logo=vuejs&logoColor=white)]()
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+Contato:
+
+📧 vansouza595@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanderson98&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanderson98&layout=compact&theme=tokyonight)
